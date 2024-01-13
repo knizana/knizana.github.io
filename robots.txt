@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://knizana.github.io/sitemap.xml
