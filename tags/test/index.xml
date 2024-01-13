@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>space on knBlog</title>
-    <link>https://knizana.github.io/tags/space/</link>
-    <description>Recent content in space on knBlog</description>
+    <title>test on knBlog</title>
+    <link>https://knizana.github.io/tags/test/</link>
+    <description>Recent content in test on knBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:thinking_face:</copyright>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://knizana.github.io/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://knizana.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>https://knizana.github.io/post/first/</link>
+      <link>https://knizana.github.io/post/test/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://knizana.github.io/post/first/</guid>
+      <guid>https://knizana.github.io/post/test/</guid>
       <description>This is my first post on my site</description>
       
     </item>
